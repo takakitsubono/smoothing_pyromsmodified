@@ -1,0 +1,24 @@
+ 
+### Smoothing cal.(rx=0.3) ####
+=== original pyroms progmram ====
+DeltaBathymetry =  0.0
+Time_pyrms:  20.847277581691742
+ 
+=== converted program  ====
+deltabathymetry =  0.0
+Time_smlp :  0.09754075668752193
+ 
+Ratio(pyrms/smlp):  213.7288892321938
+Num of diff. point : 0
+ 
+### Smoothing  cal.(rx=0.15) ####
+=== original pyroms progmram ====
+DeltaBathymetry =  0.0
+Time_pyrms:  167.89426905475557
+ 
+=== converted program  ====
+deltabathymetry =  0.0
+Time_smlp :  2.112707771360874
+ 
+Ratio(pyrms/smlp):  79.46876105189341
+Num of diff. point : 38

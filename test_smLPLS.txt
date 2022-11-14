@@ -1,0 +1,78 @@
+### Max Roughness cal. ####
+=== original pyroms progmram ====
+Max Roughness value is:  0.5208613728129206
+Time_pyrms:  9.760533943772316
+ 
+=== converted program  ====
+Max Roughness value is:  0.5208613728129206
+Time_smlp :  0.029185587540268898
+ 
+Ratio(pyrms/smlp):  334.42992813850987
+ 
+### Smoothing cal.(rx=0.3) ####
+=== original pyroms progmram ====
+Iteration # 1
+current r= 0.5208613728129206   nbPointMod= 11 
+ 
+Iteration # 2
+current r= 0.30737456628297627   nbPointMod= 2 
+ 
+Iteration # 3
+current r= 0.2979405034324943   nbPointMod= 0  no erase
+ 
+Time_pyrms:  87.3715961240232
+ 
+=== converted program  ====
+Iteration # 1
+current r= 0.5208613728129206   nbPointMod= 11 
+ 
+Iteration # 2
+current r= 0.30737456628297627   nbPointMod= 2 
+ 
+Iteration # 3
+current r= 0.2979405034324943   nbPointMod= 0  no erase
+ 
+Time_smlp :  0.1478049848228693
+ 
+Ratio(pyrms/smlp):  591.1275335451645
+Num of diff. point : 0
+ 
+### Smoothing  cal.(rx=0.15) ####
+=== original pyroms progmram ====
+Iteration # 1
+current r= 0.5208613728129206   nbPointMod= 75 
+ 
+Iteration # 2
+current r= 0.30737456628297627   nbPointMod= 34 
+ 
+Iteration # 3
+current r= 0.21517515189188105   nbPointMod= 17 
+ 
+Iteration # 4
+current r= 0.1647871556570554   nbPointMod= 6 
+ 
+Iteration # 5
+current r= 0.14769975786924938   nbPointMod= 0  no erase
+ 
+Time_pyrms:  142.31413948722184
+ 
+=== converted program  ====
+Iteration # 1
+current r= 0.5208613728129206   nbPointMod= 75 
+ 
+Iteration # 2
+current r= 0.30737456628297627   nbPointMod= 34 
+ 
+Iteration # 3
+current r= 0.21517515189188105   nbPointMod= 17 
+ 
+Iteration # 4
+current r= 0.1647871556570554   nbPointMod= 6 
+ 
+Iteration # 5
+current r= 0.14769975786924938   nbPointMod= 0  no erase
+ 
+Time_smlp :  0.2371688149869442
+ 
+Ratio(pyrms/smlp):  600.0541829036673
+Num of diff. point : 0
